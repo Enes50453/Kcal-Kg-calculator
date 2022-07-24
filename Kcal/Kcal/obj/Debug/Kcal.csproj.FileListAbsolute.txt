@@ -1,0 +1,10 @@
+C:\Users\ENES\source\repos\Kcal\Kcal\obj\Debug\Kcal.csprojAssemblyReference.cache
+C:\Users\ENES\source\repos\Kcal\Kcal\obj\Debug\Kcal.Properties.Resources.resources
+C:\Users\ENES\source\repos\Kcal\Kcal\obj\Debug\Kcal.csproj.GenerateResource.cache
+C:\Users\ENES\source\repos\Kcal\Kcal\obj\Debug\Kcal.csproj.CoreCompileInputs.cache
+C:\Users\ENES\source\repos\Kcal\Kcal\bin\Debug\Kcal.exe.config
+C:\Users\ENES\source\repos\Kcal\Kcal\bin\Debug\Kcal.exe
+C:\Users\ENES\source\repos\Kcal\Kcal\bin\Debug\Kcal.pdb
+C:\Users\ENES\source\repos\Kcal\Kcal\obj\Debug\Kcal.exe
+C:\Users\ENES\source\repos\Kcal\Kcal\obj\Debug\Kcal.pdb
+C:\Users\ENES\source\repos\Kcal\Kcal\obj\Debug\Kcal.Kcal.resources
